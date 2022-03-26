@@ -2518,6 +2518,7 @@ __metadata:
     ava: ^4.0.1
     convert-source-map: ^1.8.0
     prettier: ^2.5.1
+    rimraf: ^3.0.2
     ts-node: ^10.4.0
     tslint: ^6.1.3
     tslint-config-prettier: ^1.18.0
